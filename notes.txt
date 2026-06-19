@@ -1,1 +1,6 @@
 Everyone keeps searching repositories.
+
+
+
+Developers usually store snippets elsewhere.
+
