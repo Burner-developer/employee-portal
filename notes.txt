@@ -1,6 +1,5 @@
 Everyone keeps searching repositories.
 
-
-
 Developers usually store snippets elsewhere.
 
+David always preferred sharing snippets.
